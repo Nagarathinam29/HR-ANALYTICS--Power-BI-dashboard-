@@ -1,0 +1,29 @@
+# Employee Attrition Analysis Dashboard (Power BI)
+
+This Power BI project analyzes employee attrition trends to help HR teams understand key factors behind employee turnover.
+
+## Objective
+To create an interactive Power BI dashboard that shows:
+- Total employees
+- Attrition count and rate
+- Insights by age, gender, salary, education, job role, and years at company
+
+## Tools Used
+- Power BI Desktop
+- DAX
+- Excel (for data source)
+
+## Dashboard Features
+- KPI Cards for overall numbers
+- Bar and pie charts for attrition breakdowns
+- Slicers for department-wise filtering
+- Visualizations for age, education, gender, and salary insights
+
+## Files Included
+- `AttritionDashboard.pbix` – Power BI file
+- `Screenshots/` – Folder with dashboard images
+- `Portfolio.pdf` – Project summary document
+
+## Conclusion
+This dashboard helps HR professionals make data-driven decisions to reduce employee attrition and improve retention.
+
